@@ -1,0 +1,5 @@
+D:/hoctap/AI_1/buoc1_5_data/data_train/img1_585_5160.lstmf
+D:/hoctap/AI_1/buoc1_5_data/data_train/img1_584_9482.lstmf
+D:/hoctap/AI_1/buoc1_5_data/data_train/img1_582_6818.lstmf
+D:/hoctap/AI_1/buoc1_5_data/data_train/img1_575_4151.lstmf
+D:/hoctap/AI_1/buoc1_5_data/data_train/img1_578_4866.lstmf

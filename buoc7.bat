@@ -1,0 +1,1 @@
+lstmtraining --stop_training --continue_from="D:/hoctap/AI_1/buoc1_5_data/data_train/output/output_checkpoint" --traineddata="D:/hoctap/AI_1/buoc1_5_data/data_train/vie.traineddata" --model_output="D:/hoctap/AI_1/buoc1_5_data/data_train/output/vie_new.traineddata"
